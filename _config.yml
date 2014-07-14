@@ -1,9 +1,9 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Save Riverside Bridge
+email: saveriversidebridge@gmail.com
+description: "The Save the Riverside Initiative is an effort to preserve the Riverside Bridge in Ozark, Missouri"
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://saveriversidebridge.com"
 twitter_username: jekyllrb
 github_username:  zachdyer
 
