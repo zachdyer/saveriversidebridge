@@ -2,9 +2,9 @@
 title: Save Riverside Bridge
 email: saveriversidebridge@gmail.com
 description: "The Save the Riverside Initiative is an effort to preserve the Riverside Bridge in Ozark, Missouri"
-baseurl: ""
+baseurl: "/saveriversidebridge"
 url: "http://saveriversidebridge.com"
-twitter_username: jekyllrb
+twitter_username: zachdyer
 github_username:  zachdyer
 
 # Build settings
